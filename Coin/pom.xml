@@ -180,6 +180,14 @@
 
         </dependency>
 
+        <!-- 업비트 관련 start -->
+        <dependency>
+            <groupId>com.auth0</groupId>
+            <artifactId>java-jwt</artifactId>
+            <version>3.16.0</version>
+        </dependency>
+        <!-- 업비트 관련 end -->
+
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>

@@ -1,7 +1,8 @@
 #oracle
 db.username=hr
-db.password=hr
+db.password=jy
 
 #mysql
 db.nm=orcl
 db.pw=root
+

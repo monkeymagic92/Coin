@@ -7,6 +7,8 @@
         <element id="directory" name="classes">
           <element id="module-output" name="Coin" />
           <element id="jpa-descriptors" facet="Coin/jpa/JPA" />
+          <element id="library" level="application" name="jquery-3.6.0" />
+          <element id="library" level="application" name="jquery.form" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
@@ -40,6 +42,10 @@
           <element id="library" level="project" name="Maven: org.mariadb.jdbc:mariadb-java-client:2.7.1" />
           <element id="library" level="project" name="Maven: backport-util-concurrent:backport-util-concurrent:3.1" />
           <element id="library" level="project" name="ojdbc6" />
+          <element id="library" level="project" name="Maven: com.auth0:java-jwt:3.16.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.0" />
         </element>
       </element>
     </root>
